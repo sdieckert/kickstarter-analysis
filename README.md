@@ -11,9 +11,23 @@ Louise's play Fever came close to it's fundraising goal in a short amount of tim
 
 ### Analysis of Outcomes Based on Launch Date 
 
+Summary here:
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87085239/164118679-58f414a6-ad10-4a14-87d7-e05ef3a6c62d.png)
+
+
+
 ### Analysis of Outcomes Based on Goals 
 
+Summary here:
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/87085239/164118706-6a18d589-777f-4e88-b9dd-491869c8aa5e.png)
+
+
+
 ### Challenges and Difficulties Encountered 
+
+For this analysis, we provided Louise with a chart displaying theaters to then go on and filter for plays. 
 
 ## Results
 

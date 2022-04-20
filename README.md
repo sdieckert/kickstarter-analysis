@@ -9,15 +9,13 @@ Louise's play Fever came close to it's fundraising goal in a short amount of tim
 
 ### Analysis of Outcomes Based on Launch Date 
 
-Summary here:
+To help Louise understand if there was any coorelation between when a campaign is launch and it's likelihood of being successful, we needed to look at historical trends based on the launch date. We had already reformatted the date to a standard format but we needed to use the Year() function to capture the launch date year in order to allow for filtering on our chart. Using a Pivot table, we grouped the KickStarter data by launch month and counted the number of campaigns by outcomes. Since Louise is interested in plays, we filtered the data by Parent Category, "theater". Building a chart off of our pivot chart, we're able to create a visual that allows Louise to see how successful versus failed and canceled campaigns trend over the year. 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/87085239/164118679-58f414a6-ad10-4a14-87d7-e05ef3a6c62d.png)
 
-
-
 ### Analysis of Outcomes Based on Goals 
 
-Summary here:
+To dive further into our analysis, we next looked at the outcome of campaigns, specifically plays, based on their goal amount. The range in goal amounts for plays is large so to help break the amounts down into groups we created a summary table that grouped the goal amounts into goal brackets. Using the COUNTIFS() function, we counted the number of successful, failed and canceled outcomes in the KickStarter dataset by filtering based on the goal amount grouping, the outcomes and the subcategory of "plays". Next, we used the SUM() function to total up the number of plays per goal grouping and then used the total to determine the percentage of outcome using the =ROUND('count of outcome'/total,2). Formatting the field to Percentage, we then had a percentage of outcomes by goal groupings that we could chart. Charting the results shows that smaller goals have a higher occurance of being successful with the intercept being around !5,000 to 19,999 and failed outcomes have a higher percentage. There does appear to be some outliers in the $35,000 to $44,999 range that warrents some investigation.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/87085239/164118706-6a18d589-777f-4e88-b9dd-491869c8aa5e.png)
 

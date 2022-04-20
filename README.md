@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends for successful plays.
 ## Overview of Project
 
 ### Purpose 
-Louise's play Fever came close to it's fundraising goal in a short amount of time. Louise would like a better understanding of how different campaigns fared in relation to their launch dates and funding goals in order to refine her next campaign to successfully reach it's full fundraising goal. The purpose of this analysis on the KickStarter dataset will be to identify trends in the data in order for Louise to better understand what elements make a campaign successful in regards to time of year it's launched and what campaign goal ranges have the highest success rates.
+Louise's play Fever came close to it's fundraising goal in a short amount of time. Louise would like a better understanding of how different campaigns fared in relation to their launch dates and funding goals in order to refine her next campaign to successfully reach it's full fundraising goal. The purpose of this analysis on the KickStarter dataset will be to identify trends in the data in order for Louise to better understand what elements make a campaign successful in regards to time of year it's launched and what goal ranges have the highest success rates.
 
 ## Analysis and Challenges 
 

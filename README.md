@@ -19,11 +19,11 @@ To dive further into our analysis, we next looked at the outcome of campaigns, s
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/87085239/164118706-6a18d589-777f-4e88-b9dd-491869c8aa5e.png)
 
-
-
 ### Challenges and Difficulties Encountered 
 
-For this analysis, we provided Louise with a chart displaying theaters to then go on and filter for plays. 
+We showed Louise the parent group of theaters in the chart Theater Outcomes Based on Launch Date without breaking out the subcategory and more specifically plays. Although our client is able to see the overall trend of all theater campaigns, I think it could create a situation where we're not able to answer more specfic questioning on plays in general. 
+
+In addition, for the analysis of Outcomes Based on Goal, we grouped the goal amount without taking into consideration it's currency. Converting the currencies to US dollars would have provided a better comparison on goal amounts. You can immediately tell from looking at the chart that the unusual spike in successful plays between $35,000 and $44,999 is an outlier that would warrent further investigation into the success of thier campaign. It would be important to research these plays prior to meeting with Lousie in order to explain your findings.
 
 ## Results
 

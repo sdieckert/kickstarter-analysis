@@ -29,6 +29,7 @@ In addition, for the analysis of Outcomes Based on Goal, we grouped the goal amo
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. The largest number of theater projects are launched May through August along with the highest number of successful outcomes. All of the months trended toward a positive success rate with December being close to 50/50 on success/failed. 
+
 While May through August saw it's highest numbers of successful outcomes, it also saw it's highest continous trend of failed campaigns. Looking at the chart, Louise's chances of success would appear higher if launch in February, April, May, June, July or August.
 
 2. The months of November and December have the lowest successful theater projects with December being roughly 50/50 on sucessful/failed. Although October has a rather high number of successful outcomes, in comparison it has a visible spike in failed campaigns.If Louise wanted to avoid the possiblity of her campagin failing, she should avoid these months.
@@ -37,6 +38,9 @@ While May through August saw it's highest numbers of successful outcomes, it als
 1. Plays with a goal of "Less than 1000" and "1000 to 4999" have the highest percentage of success. Once a goal surpasses 15,000 then there's a higher degree of failing. Starting in the goal grouping of 35,000, we see some outliers that would require us to dive deeper in to understand their success story. 
 
 Looking at the percentage of outcomes by goal groupings does give the appearance of more a more balanced distributon of plays across the groups whereas if you look at the outcomes by count, it shows a right skewed distribution.
+
+![Number of Outcomes By Goal](https://user-images.githubusercontent.com/87085239/164152460-0fe761ce-b2a5-4067-ac1c-cfadf3e17f54.png)
+
 
 ### What are some limitations of this dataset?
 For this challenge, we looked at the whole set of data without taking into account the different currencies. It would be helpful to have the currency converted to US dollars. In addition, it would be helpful to break down the Kickstarters by regions, particularly in the US. It would help to see if Kickerstarters in urban areas had a higher degree of success along with certain states. Other data elements that would help wtih the analysis would be how the project was spotlighted and what channels were used to advertise the Kickstarters. In addition, a dataset with the names and demographics of the backers would allow a deeper dive into who is donating, are they repeat donors, their average donations and what Kickstarters they tend to donate to. 

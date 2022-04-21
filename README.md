@@ -39,7 +39,7 @@ In addition, for the analysis of Outcomes Based on Goal, we grouped the goal amo
 
    Looking at the outcomes by percentage among the goal groupings does give the appearance of more of a balanced volume of plays across the groups whereas if you  look at the outcomes by count, it shows a right skewed distribution. I think showing the two charts together would provide a better visualization for Louise and understanding for what goal range has the greatest success. 
 
-![Number of Outcomes By Goal](https://user-images.githubusercontent.com/87085239/164152460-0fe761ce-b2a5-4067-ac1c-cfadf3e17f54.png)
+![Number of Outcomes By Goal](https://user-images.githubusercontent.com/87085239/164359433-b4d532b0-7e03-44a3-aa34-2c1f7a6d8d07.png)
 
 
 ### What are some limitations of this dataset?

@@ -45,9 +45,9 @@ In addition, for the analysis of Outcomes Based on Goal, we grouped the goal amo
 ### What are some limitations of this dataset?
 For this challenge, we looked at the whole set of data without taking into account the different currencies. It would be helpful to have the currency converted to US dollars. 
 
-It would be helpful to break down the Kickstarters by regions, particularly in the US. It would help to see if Kickerstarters in urban areas had a higher degree of success as compared to suburan or rural as well as among the different states. 
+It would be helpful to break down the KickStarters by regions, particularly in the US. It would help to see if Kickerstarters in urban areas had a higher degree of success as compared to suburan or rural as well as among the different states. 
 
-Other data elements that would help wtih the analysis would be how the project was spotlighted and what channels were used to advertise the Kickstarters. There are some larger goal projects in the 35000 to 44999 range that standout as successful. It appears the difference in their success versus those that failed in the same goal range had a difference on whether they were spotlighted or not. The spotlighted projects had considerably more backers. A better understanding into the reason behind a KickStarter being spotlighted or not would useful. 
+Other data elements that would help wtih the analysis would be how the project was spotlighted and what channels were used to advertise the KickStarters. There are some larger goal projects in the 35000 to 44999 range that standout as successful. It appears the difference in their success versus those that failed in the same goal range had a difference on whether they were spotlighted or not. The spotlighted projects had considerably more backers. A better understanding into the reason behind a KickStarter being spotlighted or not would useful. 
 
 ### What are some other possible tables and/or graphs that we could create?
 Other possible tables could be looking at outcomes based on the number of days the project was open. Did KickStarters that were open longer generate more funding or was there a optimal time frame that leads to greater success? 

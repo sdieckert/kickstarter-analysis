@@ -37,7 +37,7 @@ In addition, for the analysis of Outcomes Based on Goal, we grouped the goal amo
 ### What can you conclude about the Outcomes based on Goals?
 1. Plays with a goal of "Less than 1000" and "1000 to 4999" have the highest percentage of success. Once a goal surpasses 15,000 then there's a higher degree of failing. Starting in the goal grouping of 35,000, we see some outliers that would require us to dive deeper in to understand their success story. 
 
-   Looking at the outcomes by percentage amoung the goal groupings does give the appearance of more of a balanced volume of plays across the groups whereas if you  look at the outcomes by count, it shows a right skewed distribution. I think showing the two charts together would provide a better visualization for Louise.
+   Looking at the outcomes by percentage among the goal groupings does give the appearance of more of a balanced volume of plays across the groups whereas if you  look at the outcomes by count, it shows a right skewed distribution. I think showing the two charts together would provide a better visualization for Louise.
 
 ![Number of Outcomes By Goal](https://user-images.githubusercontent.com/87085239/164152460-0fe761ce-b2a5-4067-ac1c-cfadf3e17f54.png)
 

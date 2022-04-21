@@ -30,7 +30,7 @@ In addition, for the analysis of Outcomes Based on Goal, we grouped the goal amo
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. The largest number of theater projects are launched May through August along with the highest number of successful outcomes. All of the months trended toward a positive success rate with December being close to 50/50 on success/failed. 
 
-While May through August saw it's highest numbers of successful outcomes, it also saw it's highest continous trend of failed campaigns. Looking at the chart, Louise's chances of success would appear higher if launch in February, April, May, June, July or August.
+   While May through August saw it's highest numbers of successful outcomes, it also saw it's highest continous trend of failed campaigns. Looking at the chart,     Louise's chances of success would appear higher if launch in February, April, May, June, July or August.
 
 2. The months of November and December have the lowest successful theater projects with December being roughly 50/50 on sucessful/failed. Although October has a rather high number of successful outcomes, in comparison it has a visible spike in failed campaigns.If Louise wanted to avoid the possiblity of her campagin failing, she should avoid these months.
 
